@@ -1,0 +1,15 @@
+D:\Учеба\C#\HomeWorks\HomeWork4\Task_27\bin\Debug\net6.0\Task_27.exe
+D:\Учеба\C#\HomeWorks\HomeWork4\Task_27\bin\Debug\net6.0\Task_27.deps.json
+D:\Учеба\C#\HomeWorks\HomeWork4\Task_27\bin\Debug\net6.0\Task_27.runtimeconfig.json
+D:\Учеба\C#\HomeWorks\HomeWork4\Task_27\bin\Debug\net6.0\Task_27.dll
+D:\Учеба\C#\HomeWorks\HomeWork4\Task_27\bin\Debug\net6.0\Task_27.pdb
+D:\Учеба\C#\HomeWorks\HomeWork4\Task_27\obj\Debug\net6.0\Task_27.csproj.AssemblyReference.cache
+D:\Учеба\C#\HomeWorks\HomeWork4\Task_27\obj\Debug\net6.0\Task_27.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\C#\HomeWorks\HomeWork4\Task_27\obj\Debug\net6.0\Task_27.AssemblyInfoInputs.cache
+D:\Учеба\C#\HomeWorks\HomeWork4\Task_27\obj\Debug\net6.0\Task_27.AssemblyInfo.cs
+D:\Учеба\C#\HomeWorks\HomeWork4\Task_27\obj\Debug\net6.0\Task_27.csproj.CoreCompileInputs.cache
+D:\Учеба\C#\HomeWorks\HomeWork4\Task_27\obj\Debug\net6.0\Task_27.dll
+D:\Учеба\C#\HomeWorks\HomeWork4\Task_27\obj\Debug\net6.0\refint\Task_27.dll
+D:\Учеба\C#\HomeWorks\HomeWork4\Task_27\obj\Debug\net6.0\Task_27.pdb
+D:\Учеба\C#\HomeWorks\HomeWork4\Task_27\obj\Debug\net6.0\Task_27.genruntimeconfig.cache
+D:\Учеба\C#\HomeWorks\HomeWork4\Task_27\obj\Debug\net6.0\ref\Task_27.dll
